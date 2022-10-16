@@ -1,0 +1,16 @@
+{
+  "name": "spotify_ws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adriane Santos",
+  "license": "MIT",
+  "description": "WS usado para clone do spotify",
+  "repository": {
+    "type": "git",
+    "url": "spotify_ws"
+  }
+}
