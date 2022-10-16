@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Adriane Santos",
+  "author": "Adriane Santos <adriane09s2@gmail.com>",
   "license": "MIT",
   "description": "WS usado para clone do spotify",
   "repository": {
